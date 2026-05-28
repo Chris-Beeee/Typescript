@@ -11,5 +11,10 @@
   "devDependencies": {
     "@playwright/test": "^1.60.0",
     "@types/node": "^25.9.1"
+  },
+  "dependencies": {
+    "@types/string-similarity": "^4.0.2",
+    "dotenv": "^17.4.2",
+    "string-similarity": "^4.0.4"
   }
 }
